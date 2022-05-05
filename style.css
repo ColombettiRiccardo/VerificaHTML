@@ -25,3 +25,31 @@
     margin-bottom: 20 rem;
     border-top-style: dashed;
 }
+#prova{
+    margin-left: 40rem;
+}
+#f4{
+    margin-left: 7rem;
+    width: 30rem;
+    border-color: black;
+    border-style: double;
+}
+h3{
+    font-size: large;
+    margin-left: 18rem;
+    
+}
+#f5{
+    
+    border-color: yellow;
+    width: 15rem;
+    height: 5rem;
+    
+}
+#f6{
+    border-style: double;
+    border-color: black;
+    margin-top: 1rem;
+    width: 30rem;
+    margin-left: 7rem;
+}
