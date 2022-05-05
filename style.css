@@ -1,0 +1,27 @@
+#f1{
+    font-family: Arial;
+    text-align: center;
+    height: 35rem;
+    width: 45rem;
+    border-color: black;
+    border-style: dashed;
+    
+}   
+#f2{
+    text-align: center;
+    width: 0;
+    margin-left: 6rem;
+    border-color: black;
+    border-radius: 2px;
+    border-style:double
+    
+    
+}
+#f3{
+    border-color: red;
+    text-align: center;
+    width: 20rem;
+    margin-left: 15rem;
+    margin-bottom: 20 rem;
+    border-top-style: dashed;
+}
